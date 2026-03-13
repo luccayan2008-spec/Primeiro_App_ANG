@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YANLUCCAPEREIRADASIL\\source\\repos\\Primeiro_App\\Primeiro_App_ANG\\Primeiro_App\\Primeiro_App.csproj": {}
+    "C:\\Users\\YANLUCCAPEREIRADASIL\\Desktop\\Primeiro_App_ANG\\Primeiro_App\\Primeiro_App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YANLUCCAPEREIRADASIL\\source\\repos\\Primeiro_App\\Primeiro_App_ANG\\Primeiro_App\\Primeiro_App.csproj": {
+    "C:\\Users\\YANLUCCAPEREIRADASIL\\Desktop\\Primeiro_App_ANG\\Primeiro_App\\Primeiro_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YANLUCCAPEREIRADASIL\\source\\repos\\Primeiro_App\\Primeiro_App_ANG\\Primeiro_App\\Primeiro_App.csproj",
+        "projectUniqueName": "C:\\Users\\YANLUCCAPEREIRADASIL\\Desktop\\Primeiro_App_ANG\\Primeiro_App\\Primeiro_App.csproj",
         "projectName": "Primeiro_App",
-        "projectPath": "C:\\Users\\YANLUCCAPEREIRADASIL\\source\\repos\\Primeiro_App\\Primeiro_App_ANG\\Primeiro_App\\Primeiro_App.csproj",
+        "projectPath": "C:\\Users\\YANLUCCAPEREIRADASIL\\Desktop\\Primeiro_App_ANG\\Primeiro_App\\Primeiro_App.csproj",
         "packagesPath": "C:\\Users\\YANLUCCAPEREIRADASIL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YANLUCCAPEREIRADASIL\\source\\repos\\Primeiro_App\\Primeiro_App_ANG\\Primeiro_App\\obj\\",
+        "outputPath": "C:\\Users\\YANLUCCAPEREIRADASIL\\Desktop\\Primeiro_App_ANG\\Primeiro_App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
